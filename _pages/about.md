@@ -49,15 +49,20 @@ Research topic: Development of multifunctional nanocrystalline photonic material
 
 Research topic: Microwave-assisted mass preparation of carbon quantum dots and trace metal ion detection.
 
-## Selected Publications
+
+## Selected Publications and Manuscripts
+
+### First-author Manuscript
 
 1. **Enhao Cui**. Voltage-Gated Long Short-Term Memory Enabled by Quantum Dot-Engineered Interfacial Capacitance for In-Sensor Neuromorphic Vision. *Advanced Photonics*, under review, 2026.
 
-2. **Enhao Cui**, et al. Single-frame motion vector imaging with phonon-engineered perovskite optoelectronic synapses for neuromorphic visual perception. *Science Bulletin*, 2026.
+### Co-authored Publications
 
-3. **Enhao Cui**, et al. Interfacial engineering via dipolar fullerene derivative for efficient tin halide perovskite indoor photovoltaics. *Nature Communications*, 2026, 17, 1908.
+1. **Enhao Cui**, et al. Single-frame motion vector imaging with phonon-engineered perovskite optoelectronic synapses for neuromorphic visual perception. *Science Bulletin*, 2026.
 
-4. **Enhao Cui**, et al. Colloidal Zeta Potential Modulation as a Handle to Control the Crystallization Kinetics of Tin Halide Perovskites for Photovoltaic Applications. *Angewandte Chemie International Edition*, 2024, 63, e202317794.
+2. **Enhao Cui**, et al. Interfacial engineering via dipolar fullerene derivative for efficient tin halide perovskite indoor photovoltaics. *Nature Communications*, 2026, 17, 1908.
+
+3. **Enhao Cui**, et al. Colloidal Zeta Potential Modulation as a Handle to Control the Crystallization Kinetics of Tin Halide Perovskites for Photovoltaic Applications. *Angewandte Chemie International Edition*, 2024, 63, e202317794.
 
 ## Contact
 
